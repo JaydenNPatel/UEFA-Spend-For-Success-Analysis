@@ -23,7 +23,6 @@ I used Python Pandas to clean my dataset, and that Jupyter Notebook file is also
 
 
 First, just to see the distribution for UEFA spending, I created a graph for that. 
-<img src="[https://cdn.statcdn.com/Infographic/images/normal/20595.jpeg](https://github.com/user-attachments/assets/59810a44-40db-41cc-9b50-e47687e7f4c8)" alt="Global Soccer Transfer Fees" width="300"/>
 ![image](https://github.com/user-attachments/assets/59810a44-40db-41cc-9b50-e47687e7f4c8)
 
 It seems like high expenditures are rare among teams. Most teams appear to tend to spend below 500 million per year.
@@ -33,6 +32,13 @@ It seems like high expenditures are rare among teams. Most teams appear to tend 
 I then conducted regression to see if Transfer Expenditures correlated to UEFA Coefficient. The results are below
 ![image](https://github.com/user-attachments/assets/ac1710ad-aa25-4af3-ba3e-011257e6c59f)
 ![image](https://github.com/user-attachments/assets/e1ea605c-9ede-4f8f-8f21-91476b338a0a)
+
+Based off of the plotted points, it looks like it is helpful to have more expenditures. Teams with super low expenditures tends to not have high UEFA Coefficients, but there are far more than enough cases to conclude that spending is not really correlated to UEFA success. Far more than enough teams with high spending have low UEFA sucess, and many teams have low spending with a very high success rate in UEFA. In addition to this, the r-squared is also significantly weak, concluding that this correlation is very weak.
+
+I did the same regression analysis with income per club and balance per club. They had even lower r-squared values, displaying how the correlation of income or balance to UEFA Coefficient is not strong. 
+I also conducted a heatmap of these correlations, more simply displaying these correlations on one plot:
+![image](https://github.com/user-attachments/assets/3b31743e-e05e-403d-bdf2-9aa913418e29)
+
 
 
 
