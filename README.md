@@ -31,6 +31,10 @@ First, just to see the distribution for UEFA spending, I created a graph for tha
 
 It seems like high expenditures are rare among teams. Most teams appear to tend to spend below 500 million per year.
 
+I wanted to see all of the graphs and plotted all of the variables using the sns pairplot. Thia helped visualize any variables relationship to each other. Here is ts below:
+
+![image](https://github.com/user-attachments/assets/1466b04c-e928-4e01-ba18-21e3c7a1a16d)
+
 
 
 I then conducted regression to see if Transfer Expenditures correlated to UEFA Coefficient. The results are below
