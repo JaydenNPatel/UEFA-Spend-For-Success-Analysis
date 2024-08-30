@@ -1,4 +1,6 @@
-On February 14, 2020, Manchester City, a world class soccer team were given a 2 year ban from UEFA European Club competition for 2 years. UEFA is the prestigious governing body of European Soccer. Similarly to FIFA, they provide international club competitions including the UEFA Champions League, UEFA Europa League, UEFA European Championship, UEFA Nations League, UEFA Conference League, and UEFA Super Cup. They also control the prize money, media rights, and regulations for all of these competitions and club compeititors. UEFA's revenue per year during last years campaign was 4.3 Billion Euros, displaying how significant this orginizations fiscal value is. With all of this immense money flowing in, teams have been spending significantly more and more every year. The chart below shows how spending on buying players has severly increased over time:
+On February 14, 2020, Manchester City, a world class soccer team were given a 2 year ban from UEFA European Club competition for 2 years. UEFA is the prestigious governing body of European Soccer. Similarly to FIFA, they provide international club competitions including the UEFA Champions League, UEFA Europa League, UEFA European Championship, UEFA Nations League, UEFA Conference League, and UEFA Super Cup. They also control the prize money, media rights, and regulations for all of these competitions and club compeititors.
+
+UEFA's revenue per year during last years campaign was 4.3 Billion Euros, displaying how significant this orginizations fiscal value is. With all of this immense money flowing in, teams have been spending significantly more and more every year. The chart below shows how spending on buying players has severly increased over time:
 
 
 <img src="https://cdn.statcdn.com/Infographic/images/normal/20595.jpeg" alt="Global Soccer Transfer Fees" width="300"/>
@@ -16,6 +18,8 @@ My method will see if a clubs spending on transfers correlate to a clubs UEFA su
 I decided to use spending from the last 4 years since 2020. Using this decades information makes the most sense because success and spending differs per year, so using the most recent time period is essential. In addition to this, this method ensures that COVID-19 does not affect any analysis.
 
 First I gathered the top 50 teams that had the highest UEFA rankings from the UEFA site, and inputted them into a csv, as there is no downloadable site with this information. There is also no downloadbale csv on transfer expenditures from these teams so I used Transfermarkt, which is one of the most reputable sights that detail information all teams spendning and income regarding players. I inputted a teams expenditures since 2020, as well as their income from transfers and balance. 
+
+
 The csv that I made is linked in this repository. Here is the link for that: ["Top50EuropeSoccerSpending.csv"](https://github.com/JaydenNPatel/UEFA-Spend-For-Success-Analysis/blob/main/Top50EuropeSoccerSpending.csv) 
 I used Python Pandas to clean my dataset, and that Jupyter Notebook file is also linked in this repository, along with all of the regression that I conducted. Here is the link for that: ["UEFATeamsSpend.ipynb"](https://github.com/JaydenNPatel/UEFA-Spend-For-Success-Analysis/blob/main/UEFATeamsSpend.ipynb)
 
