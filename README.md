@@ -2,6 +2,7 @@ On February 14, 2020, Manchester City, a world class soccer team were given a 2 
 
 
 <img src="https://cdn.statcdn.com/Infographic/images/normal/20595.jpeg" alt="Global Soccer Transfer Fees" width="300"/>
+(Source: Statista)
 
 
 All of the top European Soccer Clubs compete in these competitions, and are members of UEFA. UEFA gives clubs a metric of success in their competition called the UEFA Coefficient. 
@@ -10,10 +11,16 @@ All of the top European Soccer Clubs compete in these competitions, and are memb
 
 
 Sources:
+
         BBC Sport-
           https://www.bbc.com/sport/football/51511036
           https://www.bbc.com/sport/football/53387306
+          
         Academia-
           https://www.academia.edu/89730712/UEFA_and_the_European_Union_From_Confrontation_to_Co_operation
+        
         Wikipedia-
           https://en.wikipedia.org/wiki/UEFA
+          
+        Statista-
+          https://www.statista.com/chart/20595/global-spending-on-soccer-transfer-fees/
