@@ -37,6 +37,8 @@ Based off of the plotted points, it looks like it is helpful to have more expend
 
 I did the same regression analysis with income per club and balance per club. They had even lower r-squared values, displaying how the correlation of income or balance to UEFA Coefficient is not strong. 
 I also conducted a heatmap of these correlations, more simply displaying these correlations on one plot:
+
+
 ![image](https://github.com/user-attachments/assets/3b31743e-e05e-403d-bdf2-9aa913418e29)
 
 
