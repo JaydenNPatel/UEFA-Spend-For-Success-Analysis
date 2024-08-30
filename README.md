@@ -23,13 +23,14 @@ I used Python Pandas to clean my dataset, and that Jupyter Notebook file is also
 
 
 First, just to see the distribution for UEFA spending, I created a graph for that. 
+<img src="[https://cdn.statcdn.com/Infographic/images/normal/20595.jpeg](https://github.com/user-attachments/assets/59810a44-40db-41cc-9b50-e47687e7f4c8)" alt="Global Soccer Transfer Fees" width="300"/>
 ![image](https://github.com/user-attachments/assets/59810a44-40db-41cc-9b50-e47687e7f4c8)
 
 It seems like high expenditures are rare among teams. Most teams appear to tend to spend below 500 million per year.
 
 
 
-I then conducted regression to see if Transfer Expenditures correlated to UEFA Coefficient
+I then conducted regression to see if Transfer Expenditures correlated to UEFA Coefficient. The results are below
 ![image](https://github.com/user-attachments/assets/ac1710ad-aa25-4af3-ba3e-011257e6c59f)
 ![image](https://github.com/user-attachments/assets/e1ea605c-9ede-4f8f-8f21-91476b338a0a)
 
