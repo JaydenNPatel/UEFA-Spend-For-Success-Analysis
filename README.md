@@ -17,7 +17,7 @@ I decided to use spending from the last 4 years since 2020. Using this decades i
 
 First I gathered the top 50 teams that had the highest UEFA rankings from the UEFA site, and inputted them into a csv, as there is no downloadable site with this information. There is also no downloadbale csv on transfer expenditures from these teams so I used Transfermarkt, which is one of the most reputable sights that detail information all teams spendning and income regarding players. I inputted a teams expenditures since 2020, as well as their income from transfers and balance. 
 The csv that I made is linked in this repository.
-I used Python Pandas to clean my dataset, and that Jupyter Notebook file is also linked in this repository, along with all of the regression that I conducted. 
+I used Python Pandas to clean my dataset, and that Jupyter Notebook file is also linked in this repository, along with all of the regression that I conducted, which is titled "UEFATeamsSpend.ipynb"
 
 
 
