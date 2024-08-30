@@ -80,3 +80,7 @@ Sources:
 
         City A.M.
           https://www.cityam.com/who-owns-manchester-city-now-how-much-did-sheikh-mansour-pay-thaksin-shinawatra-in-2008/ 
+
+        Jupyter Notebooks
+        
+        Tableau
