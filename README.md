@@ -35,7 +35,9 @@ I then conducted regression to see if Transfer Expenditures correlated to UEFA C
 
 Based off of the plotted points, it looks like it is helpful to have more expenditures. Teams with super low expenditures tends to not have high UEFA Coefficients, but there are far more than enough cases to conclude that spending is not really correlated to UEFA success. Far more than enough teams with high spending have low UEFA sucess, and many teams have low spending with a very high success rate in UEFA. In addition to this, the r-squared is also significantly weak, concluding that this correlation is very weak.
 
-I did the same regression analysis with income per club and balance per club. They had even lower r-squared values, displaying how the correlation of income or balance to UEFA Coefficient is not strong. 
+I did the same regression analysis with income per club and balance per club. They had even lower r-squared values, displaying how the correlation of income or balance to UEFA Coefficient is not strong. The r-quared value for comparing Income to UEFA coefficient was 0.123. The r-quared value for comparing Income to UEFA coefficient was 0.110. So these show barely any correlation at all.
+
+
 I also conducted a heatmap of these correlations, more simply displaying these correlations on one plot:
 
 
