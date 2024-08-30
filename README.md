@@ -16,7 +16,7 @@ My method will see if a clubs spending on transfers correlate to a clubs UEFA su
 I decided to use spending from the last 4 years since 2020. Using this decades information makes the most sense because success and spending differs per year, so using the most recent time period is essential. In addition to this, this method ensures that COVID-19 does not affect any analysis.
 
 First I gathered the top 50 teams that had the highest UEFA rankings from the UEFA site, and inputted them into a csv, as there is no downloadable site with this information. There is also no downloadbale csv on transfer expenditures from these teams so I used Transfermarkt, which is one of the most reputable sights that detail information all teams spendning and income regarding players. I inputted a teams expenditures since 2020, as well as their income from transfers and balance. 
-The csv that I made is linked in this repository. Here is the link for that: https://github.com/JaydenNPatel/UEFA-Spend-For-Success-Analysis/blob/main/Top50EuropeSoccerSpending.csv 
+The csv that I made is linked in this repository. Here is the link for that: ["Top50EuropeSoccerSpending.csv"](https://github.com/JaydenNPatel/UEFA-Spend-For-Success-Analysis/blob/main/Top50EuropeSoccerSpending.csv) 
 I used Python Pandas to clean my dataset, and that Jupyter Notebook file is also linked in this repository, along with all of the regression that I conducted. Here is the link for that: ["UEFATeamsSpend.ipynb"](https://github.com/JaydenNPatel/UEFA-Spend-For-Success-Analysis/blob/main/UEFATeamsSpend.ipynb)
 
 
@@ -40,6 +40,15 @@ I also conducted a heatmap of these correlations, more simply displaying these c
 
 
 ![image](https://github.com/user-attachments/assets/3b31743e-e05e-403d-bdf2-9aa913418e29)
+
+
+
+
+
+Lastly, I wanted to see how the UEFA Coefficient lines up to every single clubs expenditues and income, in a more visually appealing way to draw insight. I used Tableau for this, and I have pasted my graphs below. 
+
+![Expenditure](https://github.com/user-attachments/assets/5edfe9a6-6297-47be-ab84-5c81d1682911)
+![Income](https://github.com/user-attachments/assets/f11d04ad-bc64-41da-bf4c-a644cc8b522f)
 
 
 
