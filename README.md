@@ -4,12 +4,19 @@ On February 14, 2020, Manchester City, a world class soccer team were given a 2 
 <img src="https://cdn.statcdn.com/Infographic/images/normal/20595.jpeg" alt="Global Soccer Transfer Fees" width="300"/>
 (Source: Statista)
 
-/n
-90% of Manchester City was bought in 2008 by Sheikh Mansour’s Abu Dhabi United Group (ADUG). In the last 10 years, since 2013-2014, they have spent over $1.48 billion on transfer fees for players, making thm among the top spenders in the world for players. Many other teams have joined this trend, Chelsea even spending $1.42 Billion in the last 10 years, moreso recently. Manchester City did get the 2 year ban charges dropped after they were accused of commiting serious breaches of UEFA's club licensing and financial fair play regulations. 
 
-With tons of money being pumped into the world of soccer to the top teams, this raises questions of if this method directly relates to success. 
+90% of Manchester City was bought in 2008 by Sheikh Mansour’s Abu Dhabi United Group (ADUG). In the last 10 years, since 2013-2014, they have spent over $1.48 billion on transfer fees for players, making thm among the top spenders in the world for players. Many other teams have joined this trend, Chelsea even spending $1.42 Billion in the last 10 years, moreso recently. Manchester City did, however, get the 2 year ban charges dropped after they were accused of commiting serious breaches of UEFA's club licensing and financial fair play regulations. 
 
-All of the top European Soccer Clubs compete in these competitions, and are members of UEFA. UEFA gives clubs a metric of success in their competition called the UEFA Coefficient. 
+With tons of money being pumped into the world of soccer to the top teams, this raises questions of if this method directly relates to success. To do this, I will conduct a regression analysis in Python using the Pandas Data Analysis Library built in to Python. I will also visualize a teams spending vs. their success in UEFA. 
+
+All of the top European Soccer Clubs compete in these competitions, and are members of UEFA. UEFA gives clubs a metric of success in their competition called the UEFA Coefficient. These UEFA Coefficients are calculated based on a team success in UEFA events, which is indicative of their European International success. The awardance of points can be described and shown in this link below from UEFA's website-
+https://www.uefa.com/nationalassociations/uefarankings/club/about/
+
+My method will see if a clubs spending on transfers correlate to a clubs UEFA success (Their UEFA Coefficient)
+I decided to use spending from the last 4 years since 2020. Using this decades information makes the most sense because success and spending differs per year, so using the most recent time period is essential. In addition to this, this method ensures that COVID-19 does not affect any analysis.
+
+First I gathered the top 50 teams that had the highest UEFA rankings from the UEFA site, and inputted them into a csv, as there is no downloadable site with this information. There is also no downloadbale csv on transfer expenditures from these teams so I used Transfermarkt, which is one of the most reputable sights that detail information all teams spendning and income regarding players.
+The csv that I made is linked in this repository.
 
 ![image](https://github.com/user-attachments/assets/59810a44-40db-41cc-9b50-e47687e7f4c8)
 
