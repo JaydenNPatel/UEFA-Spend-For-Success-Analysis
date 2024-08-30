@@ -51,6 +51,9 @@ Lastly, I wanted to see how the UEFA Coefficient lines up to every single clubs 
 ![Income](https://github.com/user-attachments/assets/f11d04ad-bc64-41da-bf4c-a644cc8b522f)
 
 
+This graph makes it a lot clearer how teams with mid-tier spending tend to succeed just as much as teams with higher ammounts of spending. Teams like Borussia Dormund, Real Madrid, Roma, and Villareal have spend a signifcantly less amount this decade than teams like Chelsea, Arsenal, Manchester United, Tottenham, Juventus, Liverpool, Barcelona, PSV, Stade Rennais, and Marseille, and still have done as good as, if not better in UEFA competitions. It is importtant to note that there does seem to be a trend that English teams tend to spend much more collectively that other countries, which more research can be done upon.
+
+To conclude, during this decade with transfer expenditure being in the hundreds of millions and even billions over time, it is important to see if this actually pays off in terms of UEFA competition success. After running regression, and visualizing data between transfer expenditures and income, it can be pretty clear that -yes- spending money has helped teams succeed this decade, but not significantly to say that money is the driver of success. With low correlation rates, and many teams proving that money doesn't buy success, it can be concluded that transfer expenditure does not directly correlate to a higher UEFA Coefficient. 
 
 
 
