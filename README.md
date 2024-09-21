@@ -15,7 +15,7 @@ With tons of money being pumped into the world of soccer to the top teams, this 
 All of the top European Soccer Clubs compete in these competitions, and are members of UEFA. UEFA gives clubs a metric of success in their competition called the UEFA Coefficient. These UEFA Coefficients are calculated based on a team's success in UEFA events, which is indicative of their European International success. The awardance of points can be described and shown in this link below from UEFA's website-
 https://www.uefa.com/nationalassociations/uefarankings/club/about/
 
-METHOD:
+METHOD:<br>
 My method will see if a clubs spending on transfers correlate to a clubs UEFA success (Their UEFA Coefficient)
 I decided to use spending from the last 4 years from 2020. Using this decade's information makes the most sense because success and spending differs per year, so using the most recent time period is essential. In addition to this, this method ensures that COVID-19 does not affect any analysis.
 
@@ -27,7 +27,7 @@ I used Python Pandas to clean my dataset, and that Jupyter Notebook file is also
 
 
 
-ANALYSIS:
+ANALYSIS: <br>
 First, just to see the distribution for UEFA spending, I created a graph for that. 
 ![image](https://github.com/user-attachments/assets/59810a44-40db-41cc-9b50-e47687e7f4c8)
 
@@ -65,6 +65,7 @@ Lastly, I wanted to see how the UEFA Coefficient lines up to every single clubs 
 
 This graph makes it a lot clearer how teams with mid-tier spending tend to succeed just as much as teams with higher amounts of spending. Teams like Borussia Dortmund, Real Madrid, Roma, and Villareal have spend a significantly less amount this decade than teams like Chelsea, Arsenal, Manchester United, Tottenham, Juventus, Liverpool, Barcelona, PSV, Stade Rennais, and Marseille, and still have done as good as, if not better in UEFA competitions. It is important to note that there does seem to be a trend that English teams tend to spend much more collectively than other countries, which more research can be done upon.
 
+CONCLUSION <br>
 To conclude, during this decade with transfer expenditure being in the hundreds of millions and even billions over time, it is important to see if this actually pays off in terms of UEFA competition success. After running regression, and visualizing data between transfer expenditures and income, it can be pretty clear that -yes- spending money has helped teams succeed this decade, but not significantly to say that money is the driver of success. With low correlation rates, and many teams proving that money doesn't buy success, it can be concluded that transfer expenditure does not directly correlate to a higher UEFA Coefficient. 
 
 
