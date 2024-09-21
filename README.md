@@ -5,7 +5,7 @@ UEFA's revenue per year during last year's campaign was 4.3 Billion Euros, displ
 
 
 <img src="https://cdn.statcdn.com/Infographic/images/normal/20595.jpeg" alt="Global Soccer Transfer Fees" width="300"/>
-(Source: Statista)
+(Source: Statista) <br>
 
 
 90% of Manchester City was bought in 2008 by Sheikh Mansour’s Abu Dhabi United Group (ADUG). In the last 10 years, since 2013-2014, they have spent over $1.48 billion on transfer fees for players, making them among the top spenders in the world for players. Many other teams have joined this trend, Chelsea even spending $1.42 Billion in the last 10 years, moreso recently. Manchester City did, however, get the 2 year ban charges dropped after they were accused of committing serious breaches of UEFA's club licensing and financial fair play regulations. 
