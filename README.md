@@ -1,4 +1,4 @@
-BACKGROUND:
+BACKGROUND: <br>
 On February 14, 2020, Manchester City, a world class soccer team was given a 2 year ban from UEFA European Club competition because of their excessive spending, breaking regulations that try to maintain fair play. UEFA is the prestigious governing body of European Soccer. Similarly to FIFA, they provide international club competitions including the UEFA Champions League, UEFA Europa League, UEFA European Championship, UEFA Nations League, UEFA Conference League, and UEFA Super Cup. They also control the prize money, media rights, and regulations for all of these competitions and club competitors.
 
 UEFA's revenue per year during last year's campaign was 4.3 Billion Euros, displaying how significant this organization's fiscal value is. With all of this immense money flowing in, teams have been spending significantly more and more every year. The chart below shows how spending on buying players has severely increased over time:
