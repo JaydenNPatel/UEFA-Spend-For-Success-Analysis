@@ -1,3 +1,4 @@
+BACKGROUND:
 On February 14, 2020, Manchester City, a world class soccer team was given a 2 year ban from UEFA European Club competition because of their excessive spending, breaking regulations that try to maintain fair play. UEFA is the prestigious governing body of European Soccer. Similarly to FIFA, they provide international club competitions including the UEFA Champions League, UEFA Europa League, UEFA European Championship, UEFA Nations League, UEFA Conference League, and UEFA Super Cup. They also control the prize money, media rights, and regulations for all of these competitions and club competitors.
 
 UEFA's revenue per year during last year's campaign was 4.3 Billion Euros, displaying how significant this organization's fiscal value is. With all of this immense money flowing in, teams have been spending significantly more and more every year. The chart below shows how spending on buying players has severely increased over time:
@@ -14,6 +15,7 @@ With tons of money being pumped into the world of soccer to the top teams, this 
 All of the top European Soccer Clubs compete in these competitions, and are members of UEFA. UEFA gives clubs a metric of success in their competition called the UEFA Coefficient. These UEFA Coefficients are calculated based on a team's success in UEFA events, which is indicative of their European International success. The awardance of points can be described and shown in this link below from UEFA's website-
 https://www.uefa.com/nationalassociations/uefarankings/club/about/
 
+METHOD:
 My method will see if a clubs spending on transfers correlate to a clubs UEFA success (Their UEFA Coefficient)
 I decided to use spending from the last 4 years from 2020. Using this decade's information makes the most sense because success and spending differs per year, so using the most recent time period is essential. In addition to this, this method ensures that COVID-19 does not affect any analysis.
 
@@ -25,7 +27,7 @@ I used Python Pandas to clean my dataset, and that Jupyter Notebook file is also
 
 
 
-
+ANALYSIS:
 First, just to see the distribution for UEFA spending, I created a graph for that. 
 ![image](https://github.com/user-attachments/assets/59810a44-40db-41cc-9b50-e47687e7f4c8)
 
