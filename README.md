@@ -59,9 +59,8 @@ I also conducted a heatmap of these correlations, more simply displaying these c
 
 Lastly, I wanted to see how the UEFA Coefficient lines up to every single clubs expenditues and income, in a more visually appealing way to draw insight. I used Tableau for this, and I have pasted my graphs below. 
 
-![Expenditure](https://github.com/user-attachments/assets/5edfe9a6-6297-47be-ab84-5c81d1682911)
-![Income](https://github.com/user-attachments/assets/f11d04ad-bc64-41da-bf4c-a644cc8b522f)
-
+![Expenditure](https://github.com/user-attachments/assets/690fb752-52fa-4c15-b18d-86193fdebee5)
+![Income](https://github.com/user-attachments/assets/409bc6d0-7b15-4da2-82a8-c0196f781d83)
 
 This graph makes it a lot clearer how teams with mid-tier spending tend to succeed just as much as teams with higher amounts of spending. Teams like Borussia Dortmund, Real Madrid, Roma, and Villareal have spend a significantly less amount this decade than teams like Chelsea, Arsenal, Manchester United, Tottenham, Juventus, Liverpool, Barcelona, PSV, Stade Rennais, and Marseille, and still have done as good as, if not better in UEFA competitions. It is important to note that there does seem to be a trend that English teams tend to spend much more collectively than other countries, which more research can be done upon.
 
